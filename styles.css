@@ -1,0 +1,50 @@
+html, body {
+    background: black;
+    color: white;
+}
+
+.nav-links {
+    display: inline;
+}
+
+.logo {
+    filter: invert(1);
+}
+
+i {
+    color: darkorange;
+}
+
+.btn-yellow {
+    background-color: #f1c40f;
+    font-weight: 600;
+}
+
+.btn-yellow:hover {
+    background-color: #f1c40f;
+    color: black;
+    filter: brightness(110%) !important;
+}
+
+.level-bullet {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.copyright-text {
+    font-size: small;
+    color: grey;
+}
+
+.bg-custom1 {
+    background-color: #151515;
+}
+
+.bg-custom2 {
+    background-color: #020202;
+}
